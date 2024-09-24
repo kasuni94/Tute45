@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\DistributedAppSolution\BusinessTier\bin\Debug\BusinessTier.exe.config
+C:\Users\ASUS\source\repos\DistributedAppSolution\BusinessTier\bin\Debug\BusinessTier.exe
+C:\Users\ASUS\source\repos\DistributedAppSolution\BusinessTier\bin\Debug\BusinessTier.pdb
+C:\Users\ASUS\source\repos\DistributedAppSolution\BusinessTier\obj\Debug\BusinessTier.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\DistributedAppSolution\BusinessTier\obj\Debug\BusinessTier.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\DistributedAppSolution\BusinessTier\obj\Debug\BusinessTier.exe
+C:\Users\ASUS\source\repos\DistributedAppSolution\BusinessTier\obj\Debug\BusinessTier.pdb
+C:\Users\ASUS\source\repos\DistributedAppSolution\BusinessTier\bin\Debug\DataTier.exe
+C:\Users\ASUS\source\repos\DistributedAppSolution\BusinessTier\bin\Debug\DataTier.pdb
+C:\Users\ASUS\source\repos\DistributedAppSolution\BusinessTier\bin\Debug\DataTier.exe.config
+C:\Users\ASUS\source\repos\DistributedAppSolution\BusinessTier\obj\Debug\Business.CF829E41.Up2Date
