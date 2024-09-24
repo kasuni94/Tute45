@@ -1,0 +1,16 @@
+﻿<Window x:Class="GUIClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="GUI Client" Height="350" Width="525">
+    <Grid>
+        <TextBox Name="searchTextBox" Width="200" Height="30" VerticalAlignment="Top" Margin="10" />
+        <Button Name="searchButton" Content="Search" Width="100" Height="30" VerticalAlignment="Top" Margin="220,10,0,0" Click="SearchButton_Click" />
+        <TextBlock Text="Record Details:" VerticalAlignment="Top" Margin="10,60,0,0" />
+        <TextBox Name="idTextBox" Width="100" Height="30" VerticalAlignment="Top" Margin="18,100,407,0" />
+        <TextBox Name="firstNameTextBox" Width="150" Height="30" VerticalAlignment="Top" Margin="117,100,258,0" />
+        <TextBox Name="lastNameTextBox" Width="150" Height="30" VerticalAlignment="Top" Margin="264,100,111,0" />
+        <TextBox Name="balanceTextBox" Width="100" Height="30" VerticalAlignment="Top" Margin="414,100,11,0" />
+
+        <ProgressBar Name="progressBar" Width="500" Height="30" VerticalAlignment="Top" Margin="10,150,0,0" />
+    </Grid>
+</Window>
